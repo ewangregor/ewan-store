@@ -1,0 +1,68 @@
+#username{
+    background-color: transparent;
+    color: white;
+    border-top: none;
+    margin-top: 0;
+    border-width: 2px;
+    margin-bottom: 0;
+    border-radius: 1px;
+    border-left: none;
+    margin-bottom: 0;
+    border-right: none;
+}
+#showpass{
+    color: white;
+    position: absolute;
+    top: 360px;
+    left: 805px
+}
+#loginhead{
+
+    margin-top: 100px;
+    margin-left: 109px;
+    
+}
+#password{
+    background-color: transparent;
+    color: white;
+    border-top: none;
+    border-left: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-bottom: 0;
+    border-width: 2px;
+    border-radius: 1px;
+    border-right: none;
+}
+.logincon{
+    text-align: center;
+    padding-top: 150px;
+    width: 300px;
+    margin: auto;
+}
+label{
+    font-size: larger;
+    color: white;
+    margin: 0;
+    
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn:hover{
+    background-color: rgb(78, 78, 114);
+}
+#btn{
+    background-color: rgb(92, 92, 134);
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+}
+#dont{
+    color: white;
+}
+#span{
+    text-decoration: none;
+    color: aqua;
+}
